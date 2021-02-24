@@ -1,30 +1,24 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Vi Tu
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
-
+<<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tZkILxaANLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data—external="1"></iframe>>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix is one of the most popular streaming platforms recently. In order to gain the huge amount of users, they have used a lot of help from Data Sciences. For example they ran a campaign in France named Netflix Data Driven Automated Gif, which helped Netflix to have in-depth understanding about its customers and choose a suitable approach to a group of customer.  
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix recognized the significance of understanding customers and the use of right advertisement to the interests of customers. They used Topics Model, which is a system that enable to transform massive everyday conversation into worthful insights for the firm to identify the business opportunities. Netflix collected this data in two years and then analyzed it with the algorithm being updated by machine learning. Therefore, they were alble to implement the right advertising strategy to the French market and gain more users.
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+With the help of 3DM, Netflix enables to collect, access and analyze huge amount of information that help them to have better insights of what the users like to see. This thing couldn't be achieved without the technology.
