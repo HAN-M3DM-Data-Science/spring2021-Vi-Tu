@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Vi Tu
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -8,19 +8,23 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+## How AI is used in Health insurance sector? Business case of VitalityHealth
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www .youtube.com/watch?v=G6mjlTog4Ec&list=PLQasC2q1UjQGlm9PAUj9Aw3vlfEmuBVkI&index=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+**Vitality Health** is a United-Kingdom based company specializing in private *medical insurance* sold to the UK market. With the traditional parameters and little health checks, Vitality Health think it brings insufficient insights about their customers. They have the urge to learn more about customer's lifestyles including the level of activities and eating habits, which highly impact the probability of getting ill. Thus, AI, big data and IoT can offer a solution for them.
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Vitality Health offers an attractive deal that after buying their qualify plan, customers will have good discount to purchase an Apple watch. This promotion seems really appealing to the customers since more and more people mind about their health status that an Apple watch can help them to record. An Apple watch records a person's activity level and the data is linked and transfered directly to a Vitality account, which brings more insights to the firm.
+
+Moreover, Vitality Health partner up with **Ocado** - an online retailer and create a healthy food list. Vitality gains insights on the customers' eating habits via purchase history at Ocado. 
+
+With the accurate information of a customer's activity level and eating habits, Vitality is able to make decision whether to reduce on his/ her insurance premium. 
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+By applying Data Science in operation, Vitality is now having a better understanding on its customers and able to effectively manage cost reduction and boost profitability at the same time.
