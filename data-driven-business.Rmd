@@ -1,5 +1,6 @@
 ---
 title: "Assigment - Data Driven Business"
+author: Vi Tu
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -7,19 +8,46 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
-
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_6YlcG7h3vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+According to Forbes (2016), data-driven organizations witness 27% increase in year-over-year revenue compared to 7% of other organizations, and 12% reduce in operating costs from the prior year compared to 1% of other organizations. Thus, the benefits of data in organizations are doubtlessly.
+
+There are main 4 characteristics to recognize a data-driven organization:
+
+- Data is **centralized** and **organized**. Data should be gathered both internally and externally; many companies now are establishing data reservoirs of both internal and external data.
+- Data **governance policies** are in place. Data quality is key for high quality analytics.
+- **Data accessible**. Everyone should has access to a certain set of data in order to perform his/ her job. In addition, data should be easily accessed via various tools such as laptops, desktops, phones, etc.
+- The **increasing uses of analytics**, which allows the users to predict and act upon business insights and thereby optimizing the outcomes.
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Based on the research-based video from Deloitte, a strong data culture helps organizations to acheive many significant improvements. Let's find out the important features of data culture:
+
+- Broaden data skills to the organization as a whole so the employees able to ultilize data in their daily tasks.
+- Demonstrate value by the top executives to lead the organization towards the benefits that data bring to the firm.
+- Determine what works well for the organization: adequate amount of experiments needs to be carried out.
+- Include human insights: a combination of human thinking and data makes a best results for the organization.
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
 
+Accoding to Thusoo and Sarma, a data-driven organization should possess 3 things:
+
+- A strong culture that everyone buys into the idea of using data to make business decisions.
+- A organization structure that supports a data-diven culture.
+- Technology that supports data-driven culture and make data self-service.
+
+Following are the potential steps to achieve the mentioned things:
+
+- Empower the employees with the idea of using data to generate business decisions.
+- Organize data storage to be easily accessed to all staff.
+- Hold trainings and conferences to employees.
+- Invest in the right self-service data tools.
+- Holding employees accountable for their actions and progress when they effectively use data to drive business decisions. 
+
+#APA references
+
+- IBM. (2016, April 15). 4 characteristics of data-driven organizations—and how to get started. IBM Sverige – THINK Bloggen. https://www.ibm.com/blogs/think/se-sv/2016/04/15/4-characteristics-of-data-driven-organizations-and-how-to-get-started/#:%7E:text=Behind%20their%20success%20there%20are,access%20is%20integrated%20into%20tools.&text=Instead%2C%20the%20key%20to%20driving,use%20data%20and%20sophisticated%20analytics. 
+- Thusoo, A., & Sarma, J. S. (2017, March). Creating a Data-Driven Enterprise with DataOps. O’Reilly Online Learning. https://www.oreilly.com/library/view/creating-a-data-driven/9781492049227/ch04.html 
